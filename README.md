@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Joke Management System
 
 A full-featured Joke Management System built with Node.js, Express, MongoDB, and JWT authentication. This system allows users to register, login, and manage their own collection of jokes with full CRUD operations. It also integrates with an external Joke API to fetch jokes automatically.
@@ -254,3 +255,6 @@ ISC
 ## Author
 
 Built as a placement training project
+=======
+# Joke-API
+>>>>>>> c6b7c09d29fe7caf3402068470b156138719c271
